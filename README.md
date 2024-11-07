@@ -1,7 +1,7 @@
 <div align="center">
   <img src="typing-on-computer-mark-grayson.gif" width="350" height="300">
   <h1> ¡Welcome to my Github! <br/> I´m F-Ank2 😺</h1>
-  <h3>💻<em> Software Developer <strong>in Progress</strong></em></h3>
+  <h3><em> Software Developer <strong>in Progress</strong></em>🧑‍💻</h3>
 </div>
 
 <p align="center">
@@ -26,13 +26,13 @@ These are my social networks. 🌐
 
 ---
 
-<h2 align="center">Tech 💻</h3>
+<h2 align="center">Tech Stack💻</h3>
 <div align="center">
 
 <div style="width: 250px; display: inline-block; text-align: left;">
     <h3>Lenguajes</h3>
   
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </div>
 <div style="width: 250px; display: inline-block; text-align: left;">
     <h3>Front End</h3>
