@@ -1,7 +1,9 @@
 <div align="center">
+  <h1> ¡Welcome to my Github! <br/> I´m F-Anks! 😺</h1>
   <img src="typing-on-computer-mark-grayson.gif" width="350" height="300">
-  <h1> ¡Welcome to my Github! <br/> I´m F-Ank2 😺</h1>
+  
   <h3><em> Software Developer <strong>in Progress</strong></em>🧑‍💻</h3>
+  <p>Soy Francisco Garcia Garcia, estudiante de la Universidad Tecnologica de Xicotepec de Juarez en Ti Desarrollo de Software Multiplataforma, con un enfoque en aprender todo lo relacionado al backend, tambien manejo frontend ya que ambos dependen mutuamente, aqui encontraras proyectos que he estado realizando en mi universidad, ademas de proyectos realizados de manera automata. </p>
 </div>
 
 <p align="center">
@@ -19,7 +21,7 @@ These are my social networks. 🌐
   <a href="https://open.spotify.com/user/314t6zqeto7cd2aewxouajr34bkq?si=1af6595cba114fd1">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="77" height="30">
   </a>
- <a href="https://github.com/F-Ank2">
+ <a href="https://github.com/F-Anks">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="77" height="30">
   </a>
   <a href="https://www.tiktok.com/@safaera334?is_from_webapp=1&sender_device=pc">
