@@ -18,8 +18,8 @@ These are my social networks. 🌐
   <a href="https://www.instagram.com/pko.334/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width="77" height="30">
   </a>
-  <a href="https://open.spotify.com/user/314t6zqeto7cd2aewxouajr34bkq?si=1af6595cba114fd1">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" width="77" height="30">
+  <a href="https://music.apple.com/profile/pointbreaker566">
+    <img src="https://img.shields.io/badge/Music-f94c57?style=for-the-badge&logo=Apple&logoColor=white" alt="Spotify" width="77" height="30">
   </a>
  <a href="https://github.com/F-Anks">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="77" height="30">
